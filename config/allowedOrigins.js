@@ -1,7 +1,6 @@
 const allowedOrigins = [
-  "http://localhost:3000",
-  "https://www.xbugtracker.com",
-  "https://xbugtracker.com",
+  "https://xbug-colab.onrender.com/",
+  "https://www.xbug-colab.onrender.com/",
 ];
 
 module.exports = allowedOrigins;
