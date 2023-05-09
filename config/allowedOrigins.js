@@ -1,6 +1,3 @@
-const allowedOrigins = [
-  "https://xbug-colab.onrender.com/",
-  "https://www.xbug-colab.onrender.com/",
-];
+const allowedOrigins = ["https://xbug-colab.onrender.com/"];
 
 module.exports = allowedOrigins;
