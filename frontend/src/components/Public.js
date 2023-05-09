@@ -5,25 +5,37 @@ const Public = () => {
     <section className="public">
       <header>
         <h1>
-          Welcome to <span className="nowrap">Dan D. Repairs!</span>
+          Welcome to <span className="nowrap">XBug Colab!</span>
         </h1>
       </header>
       <main className="public__main">
         <p>
-          Located in Beautiful Downtown Foo City, Dan D. Repairs provides a
-          trained staff ready to meet your tech repair needs.
+          This Web application provides an easy way of assigning notes to
+          different roles(Employee, Manager, Admin). Only Manager and Admin can
+          create new users and update user's details. Employee can only view
+          notes and add new notes and change its status.
         </p>
+        <br />
+        <p>Contact Details</p>
         <address className="public__addr">
-          Dan D. Repairs
+          Bipin Raj Sitoula
           <br />
-          555 Foo Drive
+          Sydney
           <br />
-          Foo City, CA 12345
+          Australia
           <br />
-          <a href="tel:+15555555555">(555) 555-5555</a>
+          <a href="tel:0410738870">(041) 073 8870</a>
         </address>
         <br />
-        <p>Owner: Dan Davidson</p>
+        <p>Owner: Bipin Raj Sitoula</p>
+        <br />
+        <br />
+        <br />
+        <br />
+        <p>
+          The purpose of this web application is to collaborate the task between
+          the employees, manager and admin.
+        </p>
       </main>
       <footer>
         <Link to="/login">Employee Login</Link>
