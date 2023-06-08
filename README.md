@@ -1,6 +1,6 @@
-﻿## XBUG-Note Sharing and Management System
+﻿Live: <https://xbug-colab.onrender.com/> (Login Details available upon request)
 
-Live: <https://xbug-colab.onrender.com/> (Login Details available upon request)
+## XBUG-Note Sharing and Management System
 
 **Description:**
 
